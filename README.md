@@ -66,7 +66,7 @@ The circuit is powered at 5 V (supplied through an Arduino Uno used purely as a 
 
 The final circuit we built and tested.
 
-![Breadboard photo](images/5_potentiometers.HEIC)
+![Breadboard photo](images/5_potentiometer.heic)
 
 
 **What we learned:** [Short notes, issues, fixes.]
