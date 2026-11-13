@@ -31,10 +31,6 @@ Five potentiometers let the player change the character of the sound in real tim
 
 The circuit is powered at 5 V (supplied through an Arduino Uno used purely as a power source on the breadboard version) and is made of three cooperating blocks.
 
-### Block diagram
-
-![Block diagram](images/nom_de_l'image.png)
-
 ### Circuit description
 
 1. **Oscillators (74HC14N).** The 74HC14 contains six inverters with Schmitt-trigger inputs. By feeding the output of an inverter back to its input through a resistor and a capacitor, it becomes a simple oscillator: the capacitor charges and discharges through the resistor, and the inverter flips its output each time a threshold is crossed. The result is a square wave. Changing the resistance with a potentiometer changes how fast the capacitor charges, and therefore the pitch or the rhythm.
