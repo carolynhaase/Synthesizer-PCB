@@ -101,7 +101,7 @@ The TinkerCAD version uses two breadboards: the first one holds the oscillator a
 
 | Back (solder side) | Front |
 |--------------------|----------|
-| ![Back](images/Soldered_PCB(1).jpeg) | ![Front](images/Soldered_PCB(2).jpeg) |
+| ![Back](images/Soldered_PCB_(1).jpeg) | ![Front](images/Soldered_PCB_(2).jpeg) |
 
 ### Proof of functioning
 
