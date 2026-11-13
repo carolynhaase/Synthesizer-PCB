@@ -7,7 +7,7 @@
 
 
 
-🔊 **Listen:** [Demo audio of the final synth](<images/PCB_Video.mp4>)
+🔊 **Listen:** [Demo audio of the final synth](images/PCB_Video.mp4)
 
 ---
 
@@ -66,7 +66,7 @@ The circuit is powered at 5 V (supplied through an Arduino Uno used purely as a 
 
 The final circuit we built and tested.
 
-![Breadboard photo](<images/5 potentiometers.jpg>)
+![Breadboard photo](images/5_potentiometers.jpg)
 
 
 **What we learned:** [Short notes, issues, fixes.]
