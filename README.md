@@ -7,7 +7,7 @@
 
 
 
-🔊 **Listen:** [Demo audio of the final synth](images/PCB_Video.mp4)
+🔊 **Listen:** [Demo audio of the final synth](<images/PCB Video.mp4>)
 
 ---
 
