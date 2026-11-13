@@ -74,7 +74,7 @@ The final circuit we built and tested.
 
 ### Oscilloscope screenshots
 
-![Scope](images/scope_osc_out.png)
+![Scope](images/oscilliscope_photo.png)
 
 ---
 
@@ -114,17 +114,17 @@ Soldering was challenging: with so many wires and so little space, it required i
 
 ### V2 schematic
 
-![KiCad schematic](images/v2_schematic.png)
+![KiCad schematic](images/.png)
 
-![Schematic PDF](images/synth_v2_schematic.pdf)
+![Schematic PDF](images/.pdf)
 
 ### V2 PCB layout (real dimensions and components)
 
-![KiCad PCB layout](images/v2_pcb.png)
+![KiCad PCB layout](images/.png)
 
 ### 3D view
 
-![KiCad 3D render](images/v2_3d.png)
+![KiCad 3D render](images/.png)
 
 ---
 
