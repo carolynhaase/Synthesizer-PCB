@@ -61,9 +61,16 @@ The circuit is powered at 5 V (supplied through an Arduino Uno used purely as a 
 ## 4. Phase 1: Breadboard Prototypes
 
 Some of our early iterations:
+### One photoresistor
 [Photoresistor](images/photoresistor.mp4)
+
+### Photoresistor & two potentiometers
 [Photoresistor & Potentiometers](images/photoresistor_and_potentiometer.mp4)
+
+### Three potentiometers
 ![3 Potentiometers](images/3_potentiometers.png)
+
+### Adding a shift register clock function
 ![3 Potentiometers & Shift Register Clock](images/3_potentiometers_with_clock.png)
 
 
@@ -124,17 +131,13 @@ Soldering was challenging: with so many wires and so little space, it required i
 
 ### schematic
 
-![KiCad schematic](images/.png)
+![KiCad schematic](images/PCB_schematic.png)
 
-![Schematic PDF](images/.pdf)
 
 ### PCB layout (real dimensions and components)
 
-![KiCad PCB layout](images/.png)
+![KiCad PCB layout](images/PCB_model.png)
 
-### 3D view
-
-![KiCad 3D render](images/.png)
 
 ---
 
