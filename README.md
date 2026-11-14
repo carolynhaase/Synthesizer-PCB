@@ -95,13 +95,22 @@ The final circuit we built and tested:
 
 ---
 
-## 6. Phase 3: TinkerCAD Diagram and Schematic
+## 6. Phase 3: TinkerCAD & KiCAD Diagram and Schematic
 
-### Breadboard circuit diagram
+### TinkerCAD Breadboard circuit diagram
 
-The TinkerCAD version uses two breadboards: the first one holds the oscillator and mixing stage (74HC14, five potentiometers, diodes, resistors, op-amp, buzzer), and the second one holds the 74HC595 with its row of eight LEDs and a second buzzer.
+The TinkerCAD version uses two breadboards: the first one holds the oscillator and mixing stage (74HC14, five potentiometers, diodes, resistors, op-amp, buzzer), and the second one holds the 74HC595 with its row of eight LEDs and a second buzzer.  This configuration was used to draw the schematic and create a PCB layout in KiCAD.
 
 ![TinkerCAD breadboard view](images/PCB_TinkerCad.png)
+
+### KiCAD schematic
+
+![KiCad schematic](images/PCB_schematic.png)
+
+
+### KiCAD PCB layout
+
+![KiCad PCB layout](images/PCB_model.png)
 
 ---
 
@@ -125,23 +134,10 @@ The soldered synth behaves exactly like the breadboard and TinkerCAD versions: i
 
 Soldering was challenging: with so many wires and so little space, it required intense concentration to keep track of every connection and make sure no wire or pin was missed. It was exhausting, but the board worked on the first attempt.
 
----
-
-## 8. Phase 5: KiCad 
-
-### schematic
-
-![KiCad schematic](images/PCB_schematic.png)
-
-
-### PCB layout (real dimensions and components)
-
-![KiCad PCB layout](images/PCB_model.png)
-
 
 ---
 
-## 9. Challenges and Lessons Learned
+## 8. Challenges and Lessons Learned
 
 Whenever the circuit did not work, we lost a lot of time checking complicated things (signal behavior, theory, component values), when the real cause was much simpler: **a wire plugged into the wrong pin, or a faulty component.**
 
@@ -153,7 +149,7 @@ Whenever the circuit did not work, we lost a lot of time checking complicated th
 
 ---
 
-## 10. Team Contributions
+## 9. Team Contributions
 
 | Member | Contributions |
 |--------|---------------|
