@@ -62,10 +62,10 @@ The circuit is powered at 5 V (supplied through an Arduino Uno used purely as a 
 
 Some of our early iterations:
 ### One photoresistor
-[Photoresistor](images/photoresistor.mp4)
+[Photoresistor.mp4](images/photoresistor.mp4)
 
 ### Photoresistor & two potentiometers
-[Photoresistor & Potentiometers](images/photoresistor_and_potentiometer.mp4)
+[Photoresistor & Potentiometers.mp4](images/photoresistor_and_potentiometer.mp4)
 
 ### Three potentiometers
 ![3 Potentiometers](images/3_potentiometers.png)
