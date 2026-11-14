@@ -60,9 +60,16 @@ The circuit is powered at 5 V (supplied through an Arduino Uno used purely as a 
 
 ## 4. Phase 1: Breadboard Prototypes
 
-The final circuit we built and tested.
+Some of our early iterations:
+[Photoresistor](images/photoresistor.mp4)
+[Photoresistor & Potentiometers](images/photoresistor_and_potentiometer.mp4)
+![3 Potentiometers](images/3_potentiometers.png)
+![3 Potentiometers & Shift Register Clock](images/3_potentiometers_with_clock.png)
 
-![Breadboard photo](images/5_potentiometer.heic)
+
+The final circuit we built and tested:
+
+![Breadboard photo](images/5_potentiometers.png)
 
 ---
 
@@ -70,11 +77,14 @@ The final circuit we built and tested.
 
 ### Hand-drawn schematics
 
-![Sketch](images/circuit_sketch.jpg) 
+![Sketch](images/circuit_sketch.png) 
 
 ### Oscilloscope screenshots
 
 ![Scope](images/oscilliscope_photo.png)
+[Oscilliscope Video.mp4](images/oscilliscope_vid.mp4)
+
+
 
 ---
 
@@ -101,6 +111,8 @@ The TinkerCAD version uses two breadboards: the first one holds the oscillator a
 The soldered synth behaves exactly like the breadboard and TinkerCAD versions: it plays a sequence of beeps while selected LEDs light up. The only difference is that the soldered version has **a single buzzer**, whereas the TinkerCAD model shows two (we only had one spare for the final board). Everything else works the same way. The sound has a slight crackle, but it remains clean enough to enjoy.
 
 - 🎥 **Video demo:** [soldered_demo.mp4](images/PCB_Video.mp4)
+
+
 
 ### Soldering notes
 
