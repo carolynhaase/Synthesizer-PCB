@@ -110,15 +110,13 @@ Soldering was challenging: with so many wires and so little space, it required i
 
 ## 8. Phase 5: KiCad 
 
-[Describe]
-
-### V2 schematic
+### schematic
 
 ![KiCad schematic](images/.png)
 
 ![Schematic PDF](images/.pdf)
 
-### V2 PCB layout (real dimensions and components)
+### PCB layout (real dimensions and components)
 
 ![KiCad PCB layout](images/.png)
 
